@@ -31,3 +31,6 @@
 [submodule "Clima"]
 	path = Clima
 	url = git@github.com:hputiprawan2/Clima.git
+[submodule "Quizzler"]
+	path = Quizzler
+	url = git@github.com:hputiprawan2/Quizzler.git
