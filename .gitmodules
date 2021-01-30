@@ -37,3 +37,6 @@
 [submodule "I Am Rich"]
 	path = I Am Rich
 	url = git@github.com:hputiprawan2/I-Am-Rich.git
+[submodule "ByteCoin"]
+	path = ByteCoin
+	url = git@github.com:hputiprawan2/ByteCoin.git
