@@ -28,3 +28,6 @@
 [submodule "Tipsy"]
 	path = Tipsy
 	url = git@github.com:hputiprawan2/Tipsy.git
+[submodule "Clima"]
+	path = Clima
+	url = git@github.com:hputiprawan2/Clima.git
