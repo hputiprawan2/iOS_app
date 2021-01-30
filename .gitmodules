@@ -16,3 +16,6 @@
 [submodule "EggTimer"]
 	path = EggTimer
 	url = /Users/hputiprawan/EggTimer
+[submodule "Magic-8-Ball"]
+	path = Magic-8-Ball
+	url = /Users/hputiprawan/Magic-8-Ball
