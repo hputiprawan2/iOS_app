@@ -36,4 +36,4 @@
 	url = git@github.com:hputiprawan2/Quizzler.git
 [submodule "I Am Rich"]
 	path = I Am Rich
-	url = /Users/hputiprawan/I Am Rich
+	url = git@github.com:hputiprawan2/I-Am-Rich.git
