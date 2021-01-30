@@ -22,3 +22,6 @@
 [submodule "Silly Song"]
 	path = Silly Song
 	url = git@github.com:hputiprawan2/SillySong.git
+[submodule "Xylophone"]
+	path = Xylophone
+	url = git@github.com:hputiprawan2/Xylophone.git
