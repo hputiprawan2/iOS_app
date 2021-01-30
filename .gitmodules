@@ -10,3 +10,6 @@
 [submodule "cardgame"]
 	path = cardgame
 	url = git@github.com:hputiprawan2/cardgame.git
+[submodule "Destini"]
+	path = Destini
+	url = git@github.com:hputiprawan2/Destini.git
