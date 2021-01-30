@@ -13,3 +13,6 @@
 [submodule "Destini"]
 	path = Destini
 	url = git@github.com:hputiprawan2/Destini.git
+[submodule "EggTimer"]
+	path = EggTimer
+	url = /Users/hputiprawan/EggTimer
