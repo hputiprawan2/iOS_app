@@ -45,4 +45,7 @@
 	url = git@github.com:hputiprawan2/Flash_Chat.git
 [submodule "MyWeather"]
 	path = MyWeather
-	url = /Users/hputiprawan/MyWeather
+	url = git@github.com:hputiprawan2/MyWeather.git
+[submodule "Instagram"]
+	path = Instagram
+	url = /Users/hputiprawan/Instagram
