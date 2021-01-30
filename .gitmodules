@@ -48,4 +48,4 @@
 	url = git@github.com:hputiprawan2/MyWeather.git
 [submodule "Instagram"]
 	path = Instagram
-	url = /Users/hputiprawan/Instagram
+	url = git@github.com:hputiprawan2/Instagram.git
