@@ -1,3 +1,6 @@
 [submodule "RandomDice"]
 	path = RandomDice
 	url = git@github.com:hputiprawan2/RadomDice.git
+[submodule "BMI_Calculator"]
+	path = BMI_Calculator
+	url = git@github.com:hputiprawan2/BMI_Calculator.git
