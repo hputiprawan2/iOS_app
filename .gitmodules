@@ -25,3 +25,6 @@
 [submodule "Xylophone"]
 	path = Xylophone
 	url = git@github.com:hputiprawan2/Xylophone.git
+[submodule "Tipsy"]
+	path = Tipsy
+	url = git@github.com:hputiprawan2/Tipsy.git
