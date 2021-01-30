@@ -7,3 +7,6 @@
 [submodule "Calculator"]
 	path = Calculator
 	url = git@github.com:hputiprawan2/Calculator.git
+[submodule "cardgame"]
+	path = cardgame
+	url = git@github.com:hputiprawan2/cardgame.git
