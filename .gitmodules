@@ -40,3 +40,6 @@
 [submodule "ByteCoin"]
 	path = ByteCoin
 	url = git@github.com:hputiprawan2/ByteCoin.git
+[submodule "Flash Chat"]
+	path = Flash Chat
+	url = git@github.com:hputiprawan2/Flash_Chat.git
