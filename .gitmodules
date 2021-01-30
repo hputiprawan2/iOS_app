@@ -43,3 +43,6 @@
 [submodule "Flash Chat"]
 	path = Flash Chat
 	url = git@github.com:hputiprawan2/Flash_Chat.git
+[submodule "MyWeather"]
+	path = MyWeather
+	url = /Users/hputiprawan/MyWeather
