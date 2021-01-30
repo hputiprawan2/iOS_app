@@ -19,3 +19,6 @@
 [submodule "Magic-8-Ball"]
 	path = Magic-8-Ball
 	url = git@github.com:hputiprawan2/Magic-8-ball.git
+[submodule "Silly Song"]
+	path = Silly Song
+	url = git@github.com:hputiprawan2/SillySong.git
