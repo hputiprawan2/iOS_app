@@ -51,4 +51,4 @@
 	url = git@github.com:hputiprawan2/Instagram.git
 [submodule "Todoey"]
 	path = Todoey
-	url = /Users/hputiprawan/Todoey
+	url = git@github.com:hputiprawan2/Todoey.git
