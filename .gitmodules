@@ -52,3 +52,6 @@
 [submodule "Todoey"]
 	path = Todoey
 	url = git@github.com:hputiprawan2/Todoey.git
+[submodule "InspoQuotes"]
+	path = InspoQuotes
+	url = /Users/hputiprawan/InspoQuotes
