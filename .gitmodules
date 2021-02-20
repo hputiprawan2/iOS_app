@@ -55,3 +55,6 @@
 [submodule "InspoQuotes"]
 	path = InspoQuotes
 	url = git@github.com:hputiprawan2/InspoQuotes.git
+[submodule "Advanced_Calculator"]
+	path = Advanced_Calculator
+	url = git@github.com:hputiprawan2/Advanced_Calculator.git
