@@ -58,3 +58,12 @@
 [submodule "Advanced_Calculator"]
 	path = Advanced_Calculator
 	url = git@github.com:hputiprawan2/Advanced_Calculator.git
+[submodule "WhatFlower"]
+        path = WhatFlower
+        url = git@github.com:hputiprawan2/WhatFlower.git
+[submodule "SeeFood"]
+        path = SeeFood
+        url = git@github.com:hputiprawan2/SeeFood.git
+[submodule "Twittermenti"]
+	path = Twittermenti
+	url = git@github.com:hputiprawan2/Twittermenti.git
